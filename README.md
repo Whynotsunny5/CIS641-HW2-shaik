@@ -1,4 +1,7 @@
-# Haris Roshan Shaik
+# Haris Roshan Shaik 
+<div style="flex: 1; text-align:left;">
+    <img src="haris.jpg"style="border-radius: 50%;" width="130" height="125" />
+  </div>
 ## About me : 
 I have done my under-gradation at Christ university in India during which i have done a internship at wipro which helped me in learning about some new technologies and now I'm pursuing my Masters in Applied computer Science at GVSU.
 ## Interests:
