@@ -4,6 +4,12 @@ body {
     padding: 0;
 }
 
+.container {
+    margin: 0 auto;
+    max-width: 600px; /* Adjust the maximum width as needed */
+    padding: 20px;
+}
+
 header {
     background-color: #7ea5cf;
     color: #ca6a6a;
