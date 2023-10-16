@@ -15,8 +15,8 @@ body {
 }
 
 header {
-    background-color: #5d4038;
-    color: #2b3e4a;
+    background-color: #e5b1a3;
+    color: #8ec8ec;
     text-align: center;
     padding: 20px;
 }
@@ -35,7 +35,7 @@ section {
 }
 
 h2 {
-    color: #22575e;
+    color: #8fe2ed;
 }
 
 ul {
@@ -48,17 +48,17 @@ li {
 }
 
 a {
-    color: #44576a;
+    color: #8fb7df;
     text-decoration: none;
 }
 
 footer {
     text-align: center;
     padding: 20px;
-    background-color: #664343;
+    background-color: #ef9f9f;
 }
 
 footer a {
-    color: #3b535e;
+    color: #8fd2f0;
     text-decoration: none;
 }
