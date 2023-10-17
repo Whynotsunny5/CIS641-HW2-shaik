@@ -2,27 +2,22 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #eed09f;
+    background-color: #393733;
 }
 
-header, nav, section, footer {
-    margin: 20px;
-    padding: 20px;
-    border-radius: 5px;
-}
 
 .container {
     margin: 0 auto;
-    background-color: #efa2af;
-    max-width: 800px; /* Adjust the maximum width as needed */
+    background-color: #d2e8ed;
+    max-width: 800px; 
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 header {
-    background-color: #e5b1a3;
-    color: #e4ec8e;
+    background-color: #d2e8ed;
+    color: #5c5235;
     text-align: center;
     padding: 20px;
 }
@@ -41,7 +36,7 @@ section {
 }
 
 h2 {
-    color: #8fe2ed;
+    color: #5c5235;
 }
 
 ul {
@@ -54,17 +49,17 @@ li {
 }
 
 a {
-    color: #8fb7df;
+    color: #5c5235;
     text-decoration: none;
 }
 
 footer {
     text-align: center;
     padding: 20px;
-    background-color: #ef9f9f;
+    background-color: #d2e8ed;
 }
 
 footer a {
-    color: #8fd2f0;
+    color: #5c5235;
     text-decoration: none;
 }
